@@ -1,4 +1,4 @@
-# Hi, I'm Umer Nawaz 👋
+#Hi, I'm Umer Nawaz 👋
 
 ### AI/ML Engineer | Generative AI | Agentic AI
 
@@ -8,7 +8,7 @@ I enjoy turning ideas into practical AI applications — from document-aware RAG
 
 > **Motivated to contribute to innovative AI and software engineering projects by applying my skills to build practical, intelligent solutions.**
 
----
+--
 
 ## 🧠 About Me
 
